@@ -17,7 +17,7 @@ imagePullSecrets: []
 # Configure Laravel PHP-FPM container.
 app:
   image:
-    repository: quay.io/renokico/laravel-helm-demo
+    repository: quay.io/renoki-co/laravel-helm-demo
     pullPolicy: IfNotPresent
     tag: "0.6.0"
 
