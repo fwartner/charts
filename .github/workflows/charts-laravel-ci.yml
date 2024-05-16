@@ -39,7 +39,7 @@ jobs:
           git config --local user.name "github-actions[bot]"
 
       - name: Install Helm
-        uses: azure/setup-helm@v4.2.0
+        uses: azure/setup-helm@v3.5
 
       - name: Install Chart
         run: |
