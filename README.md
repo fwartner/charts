@@ -1,4 +1,4 @@
-Renoki Co. Helm Repo
+wartner.io Helm Repo
 ====================
 
 Helm Charts provided by wartner.io. 🚀
