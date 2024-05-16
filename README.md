@@ -1,21 +1,21 @@
 Renoki Co. Helm Repo
 ====================
 
-Helm Charts provided by Renoki Co. 🚀
+Helm Charts provided by wartner.io. 🚀
 
 ## 🚀 Installation
 
 To install the charts repository:
 
 ```bash
-$ helm repo add renoki-co https://helm.renoki.org
+$ helm repo add wartnerio https://helm.wartner.io
 $ helm repo update
 ```
 
 To install a specific chart:
 
 ```bash
-$ helm install some-release renoki-co/<chart>
+$ helm install some-release wartnerio/<chart>
 ```
 
 ## Search for available repos
