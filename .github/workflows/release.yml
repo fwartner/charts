@@ -22,7 +22,7 @@ jobs:
           git config --local user.name "github-actions[bot]"
 
       - name: Install Helm
-        uses: azure/setup-helm@v3.5
+        uses: azure/setup-helm@v4
 
       - name: Release Chart
         uses: helm/chart-releaser-action@v1.6.0
